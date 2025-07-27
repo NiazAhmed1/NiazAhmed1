@@ -184,12 +184,18 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
 ## 📊 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Niaz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00F5FF&text_color=FFFFFF&icon_color=FF6B9D&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niaz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00F5FF&text_color=FFFFFF&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00F5FF&text_color=FFFFFF&icon_color=FF6B9D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0A0E27&title_color=00F5FF&text_color=FFFFFF"/>
 </div>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Niaz&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_ACTUAL_USERNAME&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_ACTUAL_USERNAME&theme=github-compact&hide_border=true&area=true&bg_color=0A0E27&color=00F5FF&line=FF6B9D&point=C77DFF" alt="GitHub Activity Graph" />
+</div>
+
 
 ## 🎓 AI/ML Education & Certifications
 
