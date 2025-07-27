@@ -23,9 +23,6 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
 - 🚀 **Mission**: Transforming AI research into practical, scalable solutions
 - 💡 **Vision**: Democratizing AI through intelligent, accessible applications
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username= &theme=github-compact&hide_border=true&area=true&bg_color=0A0E27&color=00F5FF&line=FF6B9D&point=C77DFF" alt="GitHub Activity Graph" />
-</div>
 
 ## 🧠 AI/ML Technology Stack
 
