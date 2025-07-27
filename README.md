@@ -181,7 +181,7 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
 - **💰 Financial Modeling**: Risk assessment and algorithmic trading systems
 - **🏥 Healthcare AI**: Diagnostic support and treatment recommendation systems
 
-📊 Performance Metrics
+## 📊 Performance Metrics
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
