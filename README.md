@@ -1,4 +1,4 @@
-# Hi there, I'm Niaz Ahmed 👋
+# Hi, I'm Niaz Ahmed 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Specialist;Large+Language+Model+Expert;Building+Intelligent+Systems" alt="Typing SVG" />
@@ -24,7 +24,7 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
 - 💡 **Vision**: Democratizing AI through intelligent, accessible applications
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&area=true&bg_color=0A0E27&color=00F5FF&line=FF6B9D&point=C77DFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username= &theme=github-compact&hide_border=true&area=true&bg_color=0A0E27&color=00F5FF&line=FF6B9D&point=C77DFF" alt="GitHub Activity Graph" />
 </div>
 
 ## 🧠 AI/ML Technology Stack
@@ -62,7 +62,6 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
   <img src="https://img.shields.io/badge/Weaviate-C77DFF?style=for-the-badge&logo=weaviate&logoColor=white&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/MLflow-7C3AED?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1A1B27" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1B27" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1A1B27" />
 </div>
 
 ### 💻 Development & Cloud
@@ -261,17 +260,6 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
 - 🤝 **Collaboration**: Believing in the power of open science and knowledge sharing
 - 📚 **Teaching**: Passionate about sharing AI knowledge and mentoring others
 
-## 📈 AI Development Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github-compact&hide_border=true&area=true&bg_color=0A0E27&color=00F5FF&line=FF6B9D&point=C77DFF" alt="Contribution Graph" />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 🤝 Let's Build the Future of AI Together!
 
@@ -283,7 +271,7 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
   <a href="mailto:niazmemon78@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/niaz-ahmed-/">
     <img src="https://img.shields.io/badge/LinkedIn-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" />
   </a>
 </div>
