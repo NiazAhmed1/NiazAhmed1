@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi, I'm Niaz
+I'm passionate about AI, machine learning, and building smart web apps.
 
 <!--
 **NiazAhmed1/NiazAhmed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
