@@ -182,8 +182,6 @@ I'm a passionate **AI & Machine Learning Engineer** specializing in **Generative
 - **🏥 Healthcare AI**: Diagnostic support and treatment recommendation systems
 
 📊 Performance Metrics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00F5FF&text_color=FFFFFF&icon_color=FF6B9D"/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
